@@ -2,7 +2,6 @@
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning React and Git
 - 📫 How to reach me: mei.ell.lee@gmail.com
-- ⚡ Fun fact: I can put on socks without using my hands
 
 <!---
 meillee/meillee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
