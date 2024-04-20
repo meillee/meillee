@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hey there, thanks for dropping by! I'm a front-end web developer, all about creating sleek designs and responsive layouts with CSS. Currently, I'm diving into JavaScript and React to build modern, interactive websites, and leveling up my Git skills to collaborate better with fellow coders.<br><br>Feel free to reach out via email at meillee.dev@gmail.com. I'm always down for a chat or to lend a hand! 😊</p>
+<p align="left">Hey there, thanks for dropping by! I'm a front-end web developer, all about creating sleek designs and responsive layouts. I love CSS 💖. Currently, I'm diving into JavaScript and React to build modern, interactive websites, and leveling up my Git skills to collaborate better with fellow coders.<br><br>Feel free to reach out via email at meillee.dev@gmail.com. I'm always down for a chat or to lend a hand! 😊</p>
 
 ###
 
