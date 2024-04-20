@@ -1,5 +1,5 @@
-- 👋 Hello, my name is Mei
-- 👀 I’m a front-end web developer
+- 👋 Hi, I'm Mei
+- 👀 A front-end web developer and cosy gamer
 - 🌱 Leveling up: JavaScript, React and Git
 <!---
 meillee/meillee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
