@@ -1,5 +1,5 @@
 <div align="left">
-  <img style="max-height: 200px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ3ejNvZDhyMDN3NGFvcDl3NDlmdmZseDZjbXZvaDAzeGs4ZDJzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4zc7ckC7GQVSUenBmy/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ3ejNvZDhyMDN3NGFvcDl3NDlmdmZseDZjbXZvaDAzeGs4ZDJzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4zc7ckC7GQVSUenBmy/giphy.gif"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hey there, thanks for dropping by! I'm a front-end web developer, all about creating sleek designs and responsive layouts. I love CSS 💖. Currently, I'm diving into JavaScript and React to build modern, interactive websites, and leveling up my Git skills to collaborate better with fellow coders.<br><br>Feel free to reach out via email at meillee.dev@gmail.com. I'm always down for a chat or to lend a hand! 😊</p>
+<p align="left">Hey there, thanks for dropping by! I'm a front-end web developer, all about creating sleek designs and responsive layouts with CSS. Currently, I'm diving into JavaScript and React to build modern, interactive websites, and leveling up my Git skills to collaborate better with fellow coders.<br><br>Feel free to reach out via email at meillee.dev@gmail.com. I'm always down for a chat or to lend a hand! 😊</p>
 
 ###
 
@@ -21,11 +21,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
 ###
