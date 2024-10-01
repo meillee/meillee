@@ -4,9 +4,9 @@
 
 ###
 
-<h1 align="left">Developer by day, developer by night</h1>
+<h1 align="left"></h1>
 
-<p align="left">Hey there, thanks for dropping by! I'm a front-end web developer, all about creating sleek designs and responsive layouts with CSS. Currently, I'm diving into JavaScript and React to build modern, interactive websites, and leveling up my Git skills to collaborate better with fellow coders.<br><br>Feel free to reach out via email at meillee.dev@gmail.com. I'm always down for a chat or to lend a hand! 😊</p>
+<p align="left">Thanks for stopping by! I’m a front-end web developer who enjoys the tranquillity of the night, losing track of time as I get lost in the flow of coding. After completing a front-end development course with General Assembly, I discovered my passion for this field and the importance of strong foundational knowledge. That’s why I decided to take a step back and dive into Harvard's CS50 Introduction to Computer Science, seeking a deeper understanding of the fundamentals to support my future learning. I love coding because it immerses me so deeply that sometimes I forget I even have a body! I’m excited to embark on this journey and can’t wait to see where it leads.<br><br>Feel free to reach out at meillee.dev@gmail.com. I’m always up for a chat or happy to help out! 😊</p>
 
 <h2 align="left">Languages and Tools</h2>
 
