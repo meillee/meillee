@@ -6,7 +6,7 @@
 
 <h1 align="left"></h1>
 
-<p align="left">Thanks for stopping by! I’m a front-end enthusiast who enjoys the tranquillity of the night and surrendering to the flow state of coding. After a meandering journey of self discovery, punctuated by many existential crises, I stumbled upon General Assembly's Front-End Web Development course. It was like everything finally fell into place, and I knew I had found where I belong. Currently, I'm studying Harvard's CS50 Introduction to Computer Science, seeking a deeper understanding of the fundamentals to support my future learning. I love coding because it engages my mind so fully that sometimes I forget I even have a body! I can't wait to see where this path leads me.<br><br>Feel free to reach out at meillee.dev@gmail.com. I’m always up for a chat or happy to help out! 😊</p>
+<p align="left">Thanks for stopping by! I’m a front-end enthusiast who enjoys the tranquillity of the night and surrendering to the flow state of coding. After a meandering journey of self discovery, punctuated by many existential crises, I stumbled upon General Assembly's Front-End Web Development course. It was like everything finally fell into place, and I knew I had found where I belong. Currently, I'm studying Harvard's CS50 Introduction to Computer Science, seeking a deeper understanding of the fundamentals to support my future learning. I love coding because it engages my mind so fully that sometimes I forget I even have a body! I can't wait to see where this path leads me.<br><br>Feel free to reach out at meillee.dev@gmail.com. I’m always up for a chat or happy to help out. 😊</p>
 
 <h2 align="left">Languages and Tools</h2>
 
